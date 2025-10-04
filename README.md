@@ -112,8 +112,11 @@ ________________________________________<br>
 •	Save: copy running-config startup-config<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
-•	show ip interface brief on R1 and R2<br>
-•	Successful pings PC ↔ PC<br>
+<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/8335893b-8a8b-42a7-9098-db20ee4041db" />
+<img width="1916" height="1137" alt="image" src="https://github.com/user-attachments/assets/e3e854b5-1b41-42a8-af32-497b029cec37" />
+<img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/e5f62970-e53d-4dfa-bff1-479a00a19744" />
+<img width="1918" height="1133" alt="image" src="https://github.com/user-attachments/assets/3209dffc-6819-4bf0-b279-5eca3bcbb913" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
